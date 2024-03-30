@@ -3,7 +3,7 @@
 	full_name = "NRS Lighthouse"
 	path = "tether"
 	ground_noun = "deck"
-	lobby_screens = list('maps/tether/icons/lobby/orbital.gif')
+	lobby_screens = list('maps/tether/icons/lobby/lighthouse-badtv.gif')
 
 	station_name  = "NRS Lighthouse"
 	station_short = "Lighthouse"
